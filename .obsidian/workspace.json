@@ -30,9 +30,21 @@
               "icon": "lucide-file",
               "title": "Elliot Potila - Habits"
             }
+          },
+          {
+            "id": "66a58e449c93b990",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +63,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c99d19beab151aec",
+  "active": "66a58e449c93b990",
   "lastOpenFiles": [
     "AP Junglers.md",
     "Elliot Potila - Habits.md",
